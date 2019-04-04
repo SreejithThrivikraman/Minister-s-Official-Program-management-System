@@ -14,3 +14,14 @@ The main modules are
 4	Alerts
 5.	Staff management
 
+
+![trip_schedule](https://user-images.githubusercontent.com/25814205/55531079-d7e8d200-5676-11e9-996f-208bae8f429c.png)
+
+
+![travel_info](https://user-images.githubusercontent.com/25814205/55531095-eafba200-5676-11e9-80ac-2dc30940fba8.png)
+
+![edit_travel](https://user-images.githubusercontent.com/25814205/55531097-ed5dfc00-5676-11e9-9019-1a095fab4e71.png)
+
+
+![staff_reg](https://user-images.githubusercontent.com/25814205/55531103-f64ecd80-5676-11e9-9b19-6db99d262e19.png)
+![view_appoint](https://user-images.githubusercontent.com/25814205/55531104-f64ecd80-5676-11e9-8518-b01990e2a9b0.png)
