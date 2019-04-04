@@ -1,0 +1,32 @@
+E:\my projects\vs p\Minister\Minister\bin\Debug\Minister.exe
+E:\my projects\vs p\Minister\Minister\bin\Debug\Minister.pdb
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\Minister.exe
+E:\my projects\vs p\Minister\Minister\obj\x86\Debug\Minister.pdb
+I:\Minister\Minister\obj\x86\Debug\Minister.exe
+I:\Minister\Minister\obj\x86\Debug\Minister.pdb
+I:\Minister\Minister\bin\Debug\Minister.exe
+I:\Minister\Minister\bin\Debug\Minister.pdb
+I:\Minister\Minister\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\Minister\Minister\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Minister\Minister\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Addtrip.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Add_Appointment.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.offstafreg.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+I:\Minister\Minister\bin\Debug\EnhancedGlassButton.dll
+I:\Minister\Minister\obj\x86\Debug\Minister.exe.licenses
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Viewa.resources
+I:\Minister\Minister\obj\x86\Debug\WindowsFormsApplication1.Editapp.resources
