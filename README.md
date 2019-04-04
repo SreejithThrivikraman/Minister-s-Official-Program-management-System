@@ -14,9 +14,11 @@ The main modules are
 4	Alerts
 5.	Staff management
 
+Screen Shots :
 
+![login](https://user-images.githubusercontent.com/25814205/55531143-25653f00-5677-11e9-9de5-cf23636a6d8a.png)
+![Picture1](https://user-images.githubusercontent.com/25814205/55531144-25653f00-5677-11e9-931c-3e0bdbe2f61f.png)
 ![trip_schedule](https://user-images.githubusercontent.com/25814205/55531079-d7e8d200-5676-11e9-996f-208bae8f429c.png)
-
 
 ![travel_info](https://user-images.githubusercontent.com/25814205/55531095-eafba200-5676-11e9-80ac-2dc30940fba8.png)
 
